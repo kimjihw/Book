@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "663216768975",
+    "project_id": "book-860e0",
+    "storage_bucket": "book-860e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663216768975:android:ba6ffb6e28e26a8f7874ba",
+        "android_client_info": {
+          "package_name": "com.example.book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663216768975-nalcubfojhfd5lqn0db9jq29cg8h3rtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGaLESP7C3nErXUcTZcz6nch-sWGo3tbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663216768975-nalcubfojhfd5lqn0db9jq29cg8h3rtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663216768975:android:ba3e9217a50c06f57874ba",
+        "android_client_info": {
+          "package_name": "com.example.coupang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663216768975-nalcubfojhfd5lqn0db9jq29cg8h3rtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGaLESP7C3nErXUcTZcz6nch-sWGo3tbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663216768975-nalcubfojhfd5lqn0db9jq29cg8h3rtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

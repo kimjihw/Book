@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/home"
+        android:enabled="true"
+        android:title="메인"/>
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:enabled="true"
+        android:title="검색"/>
+    <item
+        android:id="@+id/action_add_diary"
+        android:icon="@drawable/pen"
+        android:enabled="true"
+        android:title="글쓰기"/>
+    <item
+        android:id="@+id/action_favorite_alarm"
+        android:icon="@drawable/star"
+        android:enabled="true"
+        android:title="좋아요"/>
+    <item
+        android:id="@+id/action_account"
+        android:icon="@drawable/account"
+        android:enabled="true"
+        android:title="내 계정"/>
+</menu>
